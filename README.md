@@ -3,7 +3,7 @@
 
 **Step 2:** 	Connect using the Tastes of Nuclear Physics account.
 
-**Step 4:** 	Under "Remote Access" and "Remote devices", connect to MANDELA using the PIN.
+**Step 4:** 	Under "Remote Access" and "Remote devices", click on MANDELA and connect using the PIN.
 
 **Step 4:** 	On the menu on the right of the screen, click "Disconnect".
 
