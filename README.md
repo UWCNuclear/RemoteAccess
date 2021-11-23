@@ -24,7 +24,7 @@ Install PuTTY :		https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 **Step 6:** 	You can save the session so you don't have to set it up again. Then click "Open" to connect.
 
 
-# How to remotely access a Windows machine from a Windows machine	
+# How to remotely access a Windows machine from a Windows machine	using Windows Remote Desktop
 **Step 1:** 	Install UWC VPN: GlobalProtect or https://iamuwc.uwc.ac.za/ (20-GB limit per month)
 
 **Step 2:** 	Connect to UWC VPN.
@@ -49,4 +49,17 @@ Install PuTTY :		https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 **Step 7:**	  Go to color depth and change it to "High color (16bpp)"
 
-**Step 8:** 	Click connect.
+**Step 8:** 	Click "Connect".
+
+
+# How to remotely access the MANDELA Windows machine using Chrome Remote Desktop
+**Step 1:** 	On https://remotedesktop.google.com/, click "Access my computer"
+
+**Step 2:** 	Connect using the Tastes of Nuclear Physics account.
+
+**Step 4:** 	Connect to MANDELA using the PIN.
+
+**Step 4:** 	On the menu on the right of the screen, click "Disconnect".
+
+**Bonus Step:**   Under "Set up via SSH", there are instructions to install a plug-in to SSH from Windows or Linux :-)
+
